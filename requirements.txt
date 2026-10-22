@@ -1,0 +1,20 @@
+streamlit>=1.40.0
+
+# LangChain v1 (create_agent) and LangGraph
+langchain>=1.0.0
+langchain-core>=1.0.0
+langgraph>=1.0.0
+
+# LLM provider: Groq
+langchain-groq>=0.3.0
+
+# Tools: Tavily search and BeautifulSoup scraping
+tavily-python>=0.5.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=5.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+httpx>=0.27.0
